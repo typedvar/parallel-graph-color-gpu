@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "graphColor", "projects\graphColor\graphColor.vcproj", "{8064C5D5-DC14-42B1-9719-DB882B38C014}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "graphLoader", "projects\graphLoader\graphloader.vcproj", "{3EFBEDDA-0AD9-4412-87AE-2950F9A00E77}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "graphGen", "projects\graphGen\graphGen.vcproj", "{22EC7819-CFB4-4752-BB7C-F8D4B77AEC5D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cocl", "projects\cocl\cocl.vcproj", "{A6FB56D0-F533-4F1D-B6B6-E83A2DFE31D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8064C5D5-DC14-42B1-9719-DB882B38C014}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8064C5D5-DC14-42B1-9719-DB882B38C014}.Debug|Win32.Build.0 = Debug|Win32
+		{8064C5D5-DC14-42B1-9719-DB882B38C014}.Release|Win32.ActiveCfg = Release|Win32
+		{8064C5D5-DC14-42B1-9719-DB882B38C014}.Release|Win32.Build.0 = Release|Win32
+		{3EFBEDDA-0AD9-4412-87AE-2950F9A00E77}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EFBEDDA-0AD9-4412-87AE-2950F9A00E77}.Debug|Win32.Build.0 = Debug|Win32
+		{3EFBEDDA-0AD9-4412-87AE-2950F9A00E77}.Release|Win32.ActiveCfg = Release|Win32
+		{3EFBEDDA-0AD9-4412-87AE-2950F9A00E77}.Release|Win32.Build.0 = Release|Win32
+		{22EC7819-CFB4-4752-BB7C-F8D4B77AEC5D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22EC7819-CFB4-4752-BB7C-F8D4B77AEC5D}.Debug|Win32.Build.0 = Debug|Win32
+		{22EC7819-CFB4-4752-BB7C-F8D4B77AEC5D}.Release|Win32.ActiveCfg = Release|Win32
+		{22EC7819-CFB4-4752-BB7C-F8D4B77AEC5D}.Release|Win32.Build.0 = Release|Win32
+		{A6FB56D0-F533-4F1D-B6B6-E83A2DFE31D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6FB56D0-F533-4F1D-B6B6-E83A2DFE31D2}.Debug|Win32.Build.0 = Debug|Win32
+		{A6FB56D0-F533-4F1D-B6B6-E83A2DFE31D2}.Release|Win32.ActiveCfg = Release|Win32
+		{A6FB56D0-F533-4F1D-B6B6-E83A2DFE31D2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
