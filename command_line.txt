@@ -1,0 +1,7 @@
+Debug command line arguments:
+
+LubyColor:
+$(SolutionDir)\kernels\lubycolor.cl getISSet $(SolutionDir)\data\small.txt
+
+IVS color:
+$(SolutionDir)\kernels\individualSet.cl getColorableGroup $(SolutionDir)\data\small.txt
