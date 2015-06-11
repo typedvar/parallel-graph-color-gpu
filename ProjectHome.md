@@ -1,0 +1,1 @@
+An OpenCL, GPU based graph coloring implementation with support for fast coloring of symmetric graphs.
